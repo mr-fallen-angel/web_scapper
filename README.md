@@ -1,4 +1,4 @@
-🌐 Website Text Extractor 📝
+🌐 Web Scrapper 📝
 
 This Python project is a simple website text extractor that allows you to save the main content of a website as a text file. It uses libraries like tkinter for the GUI, filedialog for file operations, time for delays, selenium for web scraping, BeautifulSoup for HTML parsing, requests for making HTTP requests, os for environment settings, and spacy for natural language processing (NLP).
 
